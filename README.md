@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **harshit.x.singh@gmail.com**
 
-- ⚡ Fun fact **I play baseketball.**
-
 - 📖 Pursuing **Btech in CSE**
+
+- ⚡ Fun fact **I play baseketball.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
