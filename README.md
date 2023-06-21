@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshit.x.singh@gmail.com**
 
-- 📖 Pursuing **Btech in CSE**
+- 📖 A **Undergrad Student.**
 
 - ⚡ Fun fact **I play baseketball.**
 
