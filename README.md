@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **harshit.x.singh@gmail.com**
 
-- 📖 A **Undergrad Student.**
-
 - ⚡ Fun fact **I play baseketball.**
 
 <h3 align="left">Connect with me:</h3>
