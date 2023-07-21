@@ -3,7 +3,7 @@
 <h3 align="center">A passionate programmer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/9e/e1/44/9ee1440576efc4601e47a4c5aba69b66.gif")>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrhx&label=Profile%20views&color=0e75b6&style=flat" alt="harrhx" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/harshit_ranjan" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_ranjan?logo=twitter&style=for-the-badge" alt="harshit_ranjan" /></a> </p>
 
