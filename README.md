@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh</h1>
 <h3 align="center">A passionate programmer from India.</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrhx&show_icons=true&locale=en&layout=compact" alt="harrhx" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harrhx&show_icons=true&locale=en&layout=compact" alt="harrhx" /></p>
 
 <p align="left"> <a href="https://twitter.com/harshit_ranjan" target="blank"><img src="https://img.shields.io/twitter/follow/harshit_ranjan?logo=twitter&style=for-the-badge" alt="harshit_ranjan" /></a> </p>
 
