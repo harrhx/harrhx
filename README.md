@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer and developer from India</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif](https://cdn.pixabay.com/animation/2023/05/18/14/00/14-00-46-314_512.gif)" width="200" alt="Pixel Cat Waving"/>
+  <img src="[[https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif](https://cdn.pixabay.com/animation/2023/05/18/14/00/14-00-46-314_512.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)" width="200" alt="Pixel Cat Waving"/>
 </p>
 
 <p align="center">
