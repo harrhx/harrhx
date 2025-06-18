@@ -2,12 +2,12 @@
 <h3 align="center">A passionate programmer and developer from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif" width="200" alt="Pixel Cat Waving"/>
+  <img src="[https://media.giphy.com/media/QvBoMEcQ7DQXK/giphy.gif](https://cdn.pixabay.com/animation/2023/05/18/14/00/14-00-46-314_512.gif)" width="200" alt="Pixel Cat Waving"/>
 </p>
 
 <p align="center">
   <a href="https://twitter.com/harshit_ranjan" target="_blank">
-    <img src="[https://img.shields.io/twitter/follow/harshit_ranjan?logo=twitter&style=for-the-badge](https://cdn.pixabay.com/animation/2023/05/18/14/00/14-00-46-314_512.gif)" alt="harshit_ranjan" />
+    <img src="https://img.shields.io/twitter/follow/harshit_ranjan?logo=twitter&style=for-the-badge" alt="harshit_ranjan" />
   </a>
   <a href="mailto:harshit.x.singh@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshit.x.singh@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
